@@ -1,0 +1,18 @@
+{
+    "clubs": [
+        "https://live.kickertool3.de/deinverein",
+        "https://live.kickertool3.de/zweiterverein"
+    ],
+    "filter": [
+        "Challenger",
+        "Mini-Challenger"
+    ],
+    "filter_from_date": "2026-01-01",
+    "email": "ergebnisse@example.org",
+    "smtp_host": "smtp.example.org",
+    "smtp_port": "587",
+    "smtp_secure": "tls",
+    "smtp_user": "ergebnisse@example.org",
+    "smtp_from": "ergebnisse@example.org",
+    "smtp_pass": ""
+}
